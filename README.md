@@ -6,7 +6,7 @@ Hi, I'm a developer with 2 years of experience in the textile and paint industri
 ## 💬 Social Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedI&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-randall-mart%C3%ADnez-p%C3%A9rez-80aa09302/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1DyeFWYntb/) [![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.facebook.com/share/1DyeFWYntb/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1DyeFWYntb/) [![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)]([https://www.facebook.com/share/1DyeFWYntb/](https://www.instagram.com/randall_mtz07?utm_source=qr&obrf=YzdjMTZwaDVqaHk=)) 
 
 ## 🛠️ Tech Stack & Tools
 
