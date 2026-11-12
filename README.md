@@ -44,7 +44,7 @@ Hi, I'm a developer with 2 years of experience in the textile and paint industri
 ## 🎯 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=RandallMtz&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RandallMtz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RandallMtz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![Logo](https://mjnexus.com.mx/img/og-image.png)
